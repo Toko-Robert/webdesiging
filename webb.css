@@ -1,0 +1,97 @@
+
+	.navigation-bar {
+		width: 100%; 
+		color:white;
+		text-align:right
+		;
+		
+		}
+		
+		.social{
+		text-align:left;
+		float:left;
+		}
+		
+		footer .navigation-bar {
+			text-align:left;
+		}
+	.sign {
+		display: inline-block;
+		vertical-align: top;
+		width: 250px;
+		float:left;
+	}
+	.navigation-bar > a {
+		display: inline-block;
+		vertical-align: top;
+		margin-right: 20px;
+		height: 50px;        
+		line-height: 50px;    
+		text-decoration: none;
+		color:white;	
+	}
+	.navigation-bar > a:hover {
+	  text-decoration: underline;
+	}
+	.frontend{
+	font-family: Arial Narrow;
+	font-size:150%;
+	}
+	.masters{
+	font-family: monotype cursive;
+	font-size:200%;
+	color:#c02d28;
+	}
+
+	.button1 {
+	  background-color: #c02d28;
+	  border: none;
+	  color: white;
+	 padding-top: 1px;
+	 padding-left: 15px;
+	 padding-right: 15px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  margin: 10px 2px;
+	  border-radius: 45%;
+	}
+	.button2 {
+		background-color: #c02d28;
+		border: none;
+		color: white;
+	   padding-top: 1px;
+	   padding-left: 15px;
+	   padding-right: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		
+		border-radius: 35%;
+	}
+	body {
+		color: #e6e6e6;
+		font-size: 16px;
+		line-height: 1.5;
+		background-color:#3d0000;
+	}
+
+	.main{
+	background-color: #222;
+	}
+	
+	.navbg{
+		background-color: rgb(15, 15, 19);
+		padding: 20px;
+	}
+	.email{
+		text-align: right;
+	}
+	.term{
+		justify-content: space-between;
+		text-align: left;
+	}
+	.term{
+		justify-content: space-between;
+		text-align: right;
+	}
